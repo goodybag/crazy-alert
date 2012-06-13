@@ -7,7 +7,7 @@ Snazz up your alerts with CRAAAAZZZYYY ALERT!
 ```javascript
   // Load in with require
   define(function(require){
-    var crazyAlert = require('crazy-alert');
+    var crazyAlert = require('gb-crazy-alert');
     crazyAlert("ayoooooo!");
     /* Output:
       WHOAAAAAA!!!!!!!!!!!!
