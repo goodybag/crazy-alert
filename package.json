@@ -1,0 +1,18 @@
+{
+  "author": "John Fawcett <jrf0110@gmail.com>",
+  "name": "gb-crazy-alert",
+  "description": "Cuh-razy ALeRTiNg!!!!! - Test project for new Goodybag workflow",
+  "version": "0.1.0",
+  "homepage": "https://github.com/goodybag/crazy-alert",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goodybag/crazy-alert.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
